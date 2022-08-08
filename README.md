@@ -4,5 +4,5 @@
 
 - 📫 let connect us ✨✨ricardo_certe@hotmail.com , www.linkedin.com/in/ricardo-pereira-code-dev
 
-know me on:  ricardo-personal-site.netlify.app 👀 👀
+know me on:   https://portefolio-resp.herokuapp.com   👀 👀
 
