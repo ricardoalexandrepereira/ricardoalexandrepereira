@@ -8,6 +8,4 @@ know me on:   https://portefolio-resp.herokuapp.com   👀 👀
 
 
 
-![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=javascript&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=javascript&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
+![](httpsimg.shields.iobadgeOS-Windows-informationalstyle=flat&logo=mongodb&logoColor=white&color=0078D6)
