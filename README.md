@@ -7,4 +7,4 @@
 know me on:   https://portefolio-resp.herokuapp.com   👀 👀
 
 
-httpsimg.shields.iobadgeOS-Windows-informationalstyle=flat&logo=mongodb&logoColor=white&color=0078D6
+
