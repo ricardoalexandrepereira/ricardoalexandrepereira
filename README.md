@@ -6,5 +6,5 @@
 
 know me on:   https://portefolio-resp.herokuapp.com   👀 👀
 
-
+ https://img.shields.io/badge/javascript-blue?logo=javascript
 
